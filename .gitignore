@@ -1,3 +1,16 @@
+# Node.js / Express backend
+backend/node_modules/
+backend/.env
+backend/.env.local
+
+# React / Vite frontend
+frontend/node_modules/
+frontend/dist/
+
+# Misc
+.vscode/
+.DS_Store
+
 # Logs
 logs
 *.log
