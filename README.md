@@ -25,4 +25,4 @@ npm install
 # Run development server
 npm run dev
 ```
-![App Preview](./frontend/assets/screenshot.png)
+![App Preview](../frontend/assets/screenshot.png)
