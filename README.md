@@ -11,7 +11,6 @@ A modern and responsive personal portfolio built using **React + Vite** to showc
 ## 🛠️ Tech Stack
 **Frontend:** React, Vite, Tailwind CSS  
 **Backend:** Node.js
-**Deployment:** Vercel (Frontend) 
 ## ⚙️ Setup
 ```bash
 # Clone the repository
